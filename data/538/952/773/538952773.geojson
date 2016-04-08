@@ -1,0 +1,48 @@
+{
+  "id": 538952773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"RU",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191569,
+        85633163,
+        421184561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"24553378"
+    },
+    "wof:country":"RU",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85633163,
+            "postalcode_id":538952773,
+            "region_id":421184561
+        }
+    ],
+    "wof:id":538952773,
+    "wof:lastmodified":1460095310,
+    "wof:name":"386",
+    "wof:parent_id":"421184561",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
